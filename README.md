@@ -70,3 +70,50 @@
 <img width="916" height="946" alt="R9" src="https://github.com/user-attachments/assets/8a25e987-7b8b-4bd6-ab29-ec78f3168c9c" />
 <img width="797" height="696" alt="R9 1" src="https://github.com/user-attachments/assets/316e90a7-a270-4d61-adc3-9ea92181779b" />
 
+## Ronda 9a
+### Fallo
+<img width="862" height="170" alt="R9FALLOA" src="https://github.com/user-attachments/assets/cc57dd0b-ffeb-4d87-9c4e-f04a0ab71a50" />
+
+### Éxito
+<img width="330" height="55" alt="R9EXITOSOA" src="https://github.com/user-attachments/assets/1dac4a6c-e4a7-4a49-9732-cbb41a573e8c" />
+
+## Ronda 9b
+### Fallo
+<img width="737" height="197" alt="R9FALLOB" src="https://github.com/user-attachments/assets/e2a37231-8252-40b0-8d8b-b481d21e78d0" />
+
+### Éxito
+<img width="595" height="42" alt="R9EXITOSOB" src="https://github.com/user-attachments/assets/3b4b2334-f6be-459c-a2fa-42fe07e2e1b4" />
+
+## Ronda 9c
+### Fallo
+<img width="702" height="182" alt="R9FALLOC" src="https://github.com/user-attachments/assets/41def87a-dfb3-490d-8de2-a92f6345a9be" />
+
+### Éxito
+<img width="657" height="47" alt="R9EXITOSOC" src="https://github.com/user-attachments/assets/d3714d5b-2f47-40d5-a3a5-caa06a73b354" />
+
+## Ronda 9d
+### Fallo
+<img width="657" height="155" alt="R9FALLOD" src="https://github.com/user-attachments/assets/54475c64-130f-4f1f-939d-d454de20a18b" />
+
+### Éxito
+<img width="535" height="47" alt="R9EXITOSOD" src="https://github.com/user-attachments/assets/ed5f4193-5204-4b10-b09c-c1d5872831eb" />
+
+## Ronda 9e
+### Fallo
+<img width="672" height="227" alt="R9FALLOE" src="https://github.com/user-attachments/assets/1382f059-64e5-4e5a-8ffc-9be617f74bdf" />
+
+### Éxito
+<img width="522" height="37" alt="R9EXITOSOE" src="https://github.com/user-attachments/assets/6f9d87be-c979-4201-ae81-dfd4bb913e8a" />
+
+## Ejecución
+<img width="1080" height="2340" alt="Screenshot_20261117_220950" src="https://github.com/user-attachments/assets/ced5251b-f6ef-4369-993a-e4e5f658934b" />
+<img width="1080" height="2340" alt="Screenshot_20261117_221033" src="https://github.com/user-attachments/assets/c7f984af-e0d8-4b41-b106-2fc465491de8" />
+<img width="1080" height="2340" alt="Screenshot_20261117_221123" src="https://github.com/user-attachments/assets/45d53426-9dba-477a-b7fd-c17925daa35d" />
+<img width="1080" height="2340" alt="Screenshot_20261117_221339" src="https://github.com/user-attachments/assets/aa09205a-efaf-4485-ac80-f775cbd4573a" />
+
+
+
+
+
+
+
