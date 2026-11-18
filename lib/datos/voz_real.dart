@@ -32,9 +32,6 @@ class VozReal implements Voz {
       onResult: (r) {
         if (r.finalResult && !resultado.isCompleted) resultado.complete(r.recognizedWords);
       },
-      localeId: 'en_US',
-      listenFor: limite,
-      pauseFor: const Duration(seconds: 3),
     );
     return resultado.future.timeout(limite + const Duration(seconds: 3), onTimeout: () {
       _stt.stop();
