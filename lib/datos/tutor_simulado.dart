@@ -133,7 +133,7 @@ final List<_Regla> _reglas = [
           r'\blast (week|month|year|night|weekend) i (go|eat|see|buy|have|do|make|take|come|get|write|speak|drink|run|sleep|feel|think)\b',
           caseSensitive: false),
       (m) => 'last ${m[1]} I ${_pasado[m[2]!.toLowerCase()]}',
-      'Con "last ${m[1]}" usa el verbo en pasado simple.'),
+      'Con expresiones como "last week" o "last year" usa el verbo en pasado simple.'),
 
   // Artículos a / an
   _Regla(RegExp(r'\ba (apple|orange|elephant|umbrella|egg|idea|hour|interesting|old)\b', caseSensitive: false),
@@ -145,7 +145,7 @@ final List<_Regla> _reglas = [
 
   // Preposiciones y errores típicos de hispanohablantes
   _Regla(RegExp(r'\bi have (\d+) years\b', caseSensitive: false), (m) => 'I am ${m[1]} years old',
-      'En inglés la edad se expresa con el verbo "to be": "I am ${m[1]} years old".'),
+      'En inglés la edad se expresa con el verbo "to be": por ejemplo, "I am 20 years old".'),
   _Regla(RegExp(r'\bdepend of\b', caseSensitive: false), (_) => 'depend on',
       'El verbo "depend" lleva la preposición "on" (depend on), no "of".'),
   _Regla(RegExp(r'\bmarried with\b', caseSensitive: false), (_) => 'married to',
